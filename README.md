@@ -4,7 +4,7 @@ Create movie-style photos to make stories and memories!
 
 ---
 ### Screenshots
-![image](/https://github.com/shya008/Test/blob/master/filmterScreenShots.png)
+![image](/filmterScreenShots.png)
 ### Features
 #### UIKit
 - UICollectionView
