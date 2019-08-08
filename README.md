@@ -3,7 +3,7 @@
 Create movie-style photos to make stories and memories!
 
 ----------
-###Screenshots
+### Screenshots
 **Features** 
 - UIKit
 - UICollectionView
