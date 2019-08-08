@@ -5,15 +5,15 @@ Create movie-style photos to make stories and memories!
 ----------
 **Features** 
 - UIKit
- -- UICollectionView
+- UICollectionView
 - UIGestureRecognizer
 - UIPageControl
 
 - CoreImage
-CIFilter
+- CIFilter
 
-Storage
-Core data
+- Storage
+- Core data
 ## Features
 -
 -
