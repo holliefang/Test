@@ -5,7 +5,7 @@ Create movie-style photos to make stories and memories!
 ---
 ### Screenshots
 ### Features
-#### IKit**
+#### UIKit
 - UICollectionView
 - UIGestureRecognizer
 - UIPageControl
