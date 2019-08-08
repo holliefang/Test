@@ -5,11 +5,11 @@ Create movie-style photos to make stories and memories!
 ----------
 **Features** 
 - UIKit
--UICollectionView
--UIGestureRecognizer
--UIPageControl
+- UICollectionView
+- UIGestureRecognizer
+- UIPageControl
 
-CoreImage
+- CoreImage
 CIFilter
 
 Storage
