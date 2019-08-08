@@ -10,7 +10,7 @@ Create movie-style photos to make stories and memories!
 - UIGestureRecognizer
 - UIPageControl
 
-- CoreImage
+#### CoreImage
 - CIFilter
 
 #### Storage
