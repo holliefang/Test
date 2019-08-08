@@ -16,10 +16,6 @@ Create movie-style photos to make stories and memories!
 
 #### Storage
 - Core data
-#### Features
--
--
--
 
 
 
