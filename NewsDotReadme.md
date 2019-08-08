@@ -4,7 +4,7 @@ A simple news reader to enjoy, share, and save stories around the world.
 
 ---
 ### Screenshots
-![wow](newsDotScreenshots)
+![wow](/newsDotScreenshots)
 ### Features
 
 - UINotificationCenter
